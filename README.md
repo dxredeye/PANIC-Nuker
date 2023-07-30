@@ -30,4 +30,4 @@ Enjoy!
 
 
 For further help add me on discord "dxxdll"
-Or join my Discord Server https://discord.gg/dxxdll
+Or join my Discord Server dsc.gg/dxxdll
