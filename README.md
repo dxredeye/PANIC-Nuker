@@ -20,7 +20,7 @@ MY DISCORD SERVER:
   </kbd>
 </p>
 
-#### Source Code Version (More complicated but less buggy)
+#### Source Code Version (HEAD OVER TO "REALESES TO GET THE .exe VERSION!)
 ```sh-session
 Download PANIC-Nuker.zip
 Extract File
