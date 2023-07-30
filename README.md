@@ -13,8 +13,6 @@ MY DISCORD SERVER:
 <a href="https://discord.gg/dxxdll">CLICK HERE</a>
 </p>
  
----
-![image](https://cdn.discordapp.com/attachments/1127287128880074855/1135023997126459552/image.png)
 
 <p align="center"> 
   <kbd>
