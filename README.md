@@ -5,12 +5,12 @@
 </p>
 </p>
 <p align="center">
-<a href="https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe">Python v3.10</a>ㅤㅤ 
-<a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe">Python v3.9</a>
+<a href="https://www.python.org/ftp/python/3.10.5/python-3.10.9-amd64.exe">Python v3.10.9</a>ㅤㅤ 
+<a href="https://www.python.org/ftp/python/3.9.0/python-3.9.5-amd64.exe">Python v3.9.5</a>
 </p>
 <p align="center">
 MY DISCORD SERVER:
-<a href="https://discord.gg/dxxdll">CLICK HERE</a>
+<a href="https://discord.gg/dxxdll">CLICK HERE TO JOIN</a>
 </p>
  
 
