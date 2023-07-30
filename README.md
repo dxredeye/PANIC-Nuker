@@ -28,6 +28,6 @@ Press "Install.bat" in PANIC Folder
 Once All The Modules Have Been Installed you can go into "src" folder and run "PANIC.bat" to start the nuker!
 Enjoy!
 
-```sh-session
+
 For further help add me on discord "dxxdll"
 Or join my Discord Server https://discord.gg/dxxdll
