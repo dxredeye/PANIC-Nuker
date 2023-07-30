@@ -14,7 +14,7 @@ MY DISCORD SERVER:
 </p>
  
 ---
-![image]<https://cdn.discordapp.com/attachments/1127287128880074855/1135023997126459552/image.png>
+![image][<https://cdn.discordapp.com/attachments/1127287128880074855/1135023997126459552/image.png>]
 
 
 <p align="center"> 
